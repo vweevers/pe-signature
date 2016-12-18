@@ -1,6 +1,6 @@
 {
   "name": "pe-signature",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Test if buffer is a PE signature",
   "license": "MIT",
   "author": "Vincent Weevers",
